@@ -1,1 +1,7 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-f4981d0f882b2a3f0472912d15f9806d57e124e0fc890972558857b51b24a6f9.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=9482622)
+A Trie (pronounced "Try") is a Tree based data structure that helps implement functionalities such as autocomplete. It is used to provide a lookups for words in a dictionary. However instead of storing the words as words, a Trie will store each of the characters of the words into nodes with a terminal marker to indicate the completion of a word. Any word with the same prefix will share the nodes of the prefix.
+
+Aside from a skeleton class declaration, you will find a function that will return a number that maps a character to a number from 0 to 25. Thus the function will return:
+
+'a' or 'A' returns 0
+'b' or 'B' returns 1
+'c' or 'C' returns 2 ...
