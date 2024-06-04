@@ -1,0 +1,8 @@
+﻿  a1q3tester.cpp
+C:\Users\mckkm\Desktop\BTP500\myLabs\a1g-a1-imhenriquez-mkot-kawula\a1q3tester.cpp(262,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\mckkm\Desktop\BTP500\myLabs\a1g-a1-imhenriquez-mkot-kawula\a1q3tester.cpp(389,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\mckkm\Desktop\BTP500\myLabs\a1g-a1-imhenriquez-mkot-kawula\a1q3tester.cpp(492,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\mckkm\Desktop\BTP500\myLabs\a1g-a1-imhenriquez-mkot-kawula\a1q3tester.cpp(586,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\mckkm\Desktop\BTP500\myLabs\a1g-a1-imhenriquez-mkot-kawula\a1q3tester.cpp(686,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\mckkm\Desktop\BTP500\myLabs\a1g-a1-imhenriquez-mkot-kawula\a1q3tester.cpp(759,9): warning C4101: 'listSize': unreferenced local variable
+  A1Fin.vcxproj -> C:\Users\mckkm\Desktop\BTP500\myLabs\a1g-a1-imhenriquez-mkot-kawula\A1Fin\Debug\A1Fin.exe
